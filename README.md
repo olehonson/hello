@@ -1,4 +1,4 @@
 # npm install
 # nvm list
- console.log(+ 11)
+ console.log(+ 121)
 # npm run start
